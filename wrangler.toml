@@ -1,0 +1,8 @@
+
+name = "qayyum-api-proxy"
+main = "src/index.js"
+compatibility_date = "2026-11-21"
+workers_dev = true
+
+[vars]
+BACKEND_API_URL = "https://al-qayyum-islamic-library.enzonic.dev"
